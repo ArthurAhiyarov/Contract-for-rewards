@@ -1,3 +1,7 @@
+# Main Features
+
+The contract implements two withdraw functions. The first one can be used by any address, the second is dedicated for calls from offchain by the owner.
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
